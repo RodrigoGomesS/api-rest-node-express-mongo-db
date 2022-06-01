@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-node-express-mongo-db",
+  "version": "1.0.0",
+  "description": "Repositório voltado ao estudos de criação de API REST e consumi-la com Express e MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": " nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoGomesS/api-rest-node-express-mongo-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoGomesS/api-rest-node-express-mongo-db/issues"
+  },
+  "homepage": "https://github.com/RodrigoGomesS/api-rest-node-express-mongo-db#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
