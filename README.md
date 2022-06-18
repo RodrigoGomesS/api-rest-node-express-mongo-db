@@ -11,4 +11,4 @@ Repositório voltado ao estudos de criação de API REST e consumi-la com Expres
 
 ## link do curso: https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb
 
-## Status: Em concluído.
+## Status: Concluído.
